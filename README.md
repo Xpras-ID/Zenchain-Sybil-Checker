@@ -6,4 +6,4 @@
 
 # Notes
 You can replace Dummy API with your own server.
-If you don't have a server, you can use a mock server like Mocki.io or My-json-sider.typicode.com.
+If you don't have a server, you can use a mock server like https://mocki.io/
